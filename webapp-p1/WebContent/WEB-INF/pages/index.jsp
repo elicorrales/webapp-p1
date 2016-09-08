@@ -7,7 +7,7 @@
 <title>Welcome To The Shape Calculator</title>
 </head>
 <body>
-	<H1>Welcome : Static Index Page Test</H1>
+	<H1>Welcome : Static Index Page Text</H1>
 	There should be a dynamic message here: ${message }
 </body>
 </html>
